@@ -1,8 +1,7 @@
 # TodoApp
 
 
-![Project Status](https://img.shields.io/badge/status-in%20progress-yellow)
-![License](https://img.shields.io/badge/license-MIT-blue)
+![Project Status](https://img.shields.io/badge/status-in%20progress-green)
 
 Минималистичное приложение для управления задачами. Цель проекта — проверить навыки фронтенда, бэкенда и UX/UI дизайна.  
 
